@@ -226,7 +226,7 @@ header .container .links .icons {
 /* Start Landing */
 .landing {
   background-color: #3a3535;
-  background-image: url("/images/keith-misner-h0Vxgz5tyXA-unsplash.jpg");
+  background-image: url("images/keith-misner-h0Vxgz5tyXA-unsplash.jpg");
   background-size: cover;
   min-height: 100vh;
   position: relative;
