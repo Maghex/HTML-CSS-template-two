@@ -226,7 +226,7 @@ header .container .links .icons {
 /* Start Landing */
 .landing {
   background-color: #3a3535;
-  background-image: url("images/keith-misner-h0Vxgz5tyXA-unsplash.jpg");
+  background-image: url("/images/keith-misner-h0Vxgz5tyXA-unsplash.jpg");
   background-size: cover;
   min-height: 100vh;
   position: relative;
@@ -395,7 +395,7 @@ header .container .links .icons {
   padding-top: var(--main-padding-top);
   padding-bottom: var(--main-padding-bottom);
   height: 600px;
-  background-image: url("images/vimal-s-cPGMrfAuUSg-unsplash.jpg");
+  background-image: url("/images/vimal-s-cPGMrfAuUSg-unsplash.jpg");
   background-size: cover;
 }
 .mobile-section::before {
@@ -614,7 +614,7 @@ header .container .links .icons {
 .stats {
   padding-top: var(--main-padding-top);
   padding-bottom: var(--main-padding-bottom);
-  background-image: url(images/vimal-s-cPGMrfAuUSg-unsplash.jpg);
+  background-image: url(/images/vimal-s-cPGMrfAuUSg-unsplash.jpg);
   background-size: cover;
 }
 .stats .container {
@@ -816,7 +816,7 @@ header .container .links .icons {
 .quote {
   padding: var(--main-padding-top) 0;
   position: relative;
-  background-image: url("images/1809.jpg");
+  background-image: url("/images/1809.jpg");
   background-size: cover;
   text-align: center;
   color: white;
@@ -972,7 +972,7 @@ header .container .links .icons {
 /* Email Section */
 .email-section {
   padding: var(--main-padding-top) 0 var(--main-padding-bottom) 0;
-  background-image: url("images/adem-percem-2N00abl7ywo-unsplash.jpg");
+  background-image: url("/images/adem-percem-2N00abl7ywo-unsplash.jpg");
   background-size: cover;
   position: relative;
   color: white;
@@ -1058,17 +1058,17 @@ header .container .links .icons {
 .contact .container form {
   width: 70%;
 }
-.contact .container form #in{
+.contact .container form .in{
   margin-bottom: 20px;
   padding: 10px;
   caret-color: var(--main-color);
 }
-.contact .container form #in::placeholder {
+.contact .container form .in::placeholder {
   color: black;
   text-transform: uppercase;
   caret-color: var(--main-color);
 }
-.contact .container form #in:nth-child(3) {
+.contact .container form .in:nth-child(3) {
   height: 150px;
   margin-bottom: 40px;
 }
@@ -1111,7 +1111,7 @@ header .container .links .icons {
 .footer {
   padding-top: var(--main-padding-top);
   padding-bottom: var(--main-padding-bottom);
-  background-image: url("images/1303.jpg");
+  background-image: url("/images/1303.jpg");
   background-size: cover;
   background-position: center bottom;
   position: relative;
